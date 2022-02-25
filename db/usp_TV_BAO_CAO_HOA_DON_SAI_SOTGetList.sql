@@ -1,7 +1,7 @@
 USE [E-INVOICE_BML_DATA]
 GO
 
-/****** Object:  StoredProcedure [dbo].[usp_TV_BAO_CAO_HOA_DON_SAI_SOTGetList]    Script Date: 2/24/2022 11:05:30 PM ******/
+/****** Object: datlb StoredProcedure [dbo].[usp_TV_BAO_CAO_HOA_DON_SAI_SOTGetList]    Script Date: 2/24/2022 11:05:30 PM ******/
 SET ANSI_NULLS ON
 GO
 
